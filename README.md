@@ -8,6 +8,7 @@ all scripts basically deploy one or more command to a list of linux servers, via
 requirements
 ============
 
+rubygems
 net-ssh
 net-scp
 unix-crypt
