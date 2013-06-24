@@ -2,3 +2,5 @@ scraps
 ======
 
 some linux maintenance scripts in ruby
+
+all scripts basically deploy one or more command to a list of linux servers, via ssh
